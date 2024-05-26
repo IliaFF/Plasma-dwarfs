@@ -92,16 +92,6 @@ Kotelnikov_I_A_-_Lektsii_po_fizike_plazmy_Tom_1_Osnovy_fiziki_plazmy_-_2021.pdf
 
 
 всем привет, искал тут кое что и нашел какую-то методичку по диагностике плазмы, глядишь поможет тем кто это делает
-141225.pdf
-2.9 МБ
-Зиганшин Илья
-Зиганшин Илья 23:52
-75451_458bd6f71c76cca4d3b2d991c1ac8ef1.djvu
-18.7 МБ
-75457_19d94855d76affb9fbc1e909cca0682c.djvu
-12.5 МБ
-75450_89791c1f2f3dace832c9db13a8aab7c7.djvu
-21.7 МБ
 в принципе эту серию книг мне скорее ругали, что она не особо полезная, но зато там есть хотя бы чуть-чуть обо всем, может тоже вам пригодиться
 
 
@@ -146,16 +136,76 @@ https://vk.com/topic-132177380_34250492
 
 в записи на тич ине никаких лекций нету, но в природе есть физтеховские лекции какие-то, сам не смотрел, комментариев о полезности не дам
 
+https://www.youtube.com/playlist?list=PLthfp5exSWEp_FjMnaZKGq3kOBWDUYKSS
+
+
+
+
+
+
+Есть неплохой научпоп:
 
 https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
 
 https://www.youtube.com/watch?v=fu5DkDsmePg&ab_channel=Droider
+
+https://www.youtube.com/watch?v=cNFGwH70m-w&ab_channel=HouseofNHTi
+
+https://www.youtube.com/watch?v=x8puN9Ocr98&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D0%BE%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%BD
+
+https://www.youtube.com/watch?v=cp8FykqdjPs&ab_channel=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B%2C%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8
+
+https://www.youtube.com/watch?v=IhtPgVK1Y_Q&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=vvGSeEIi39g&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
+
+https://www.youtube.com/watch?v=scez3EysnWQ&ab_channel=%D0%A2%D0%B8%D0%BC%D1%83%D1%80%D0%93%D0%B0%D1%80%D0%B0%D0%BD%D0%B8%D0%BD%3A%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2
+
+https://www.youtube.com/watch?v=TmE_C5SfrLw
+
+https://www.youtube.com/watch?v=s4e3stJS2Xg&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
+
+https://www.youtube.com/watch?v=AbpO5cZ1E1Q&ab_channel=%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%D0%A2%D0%92
+
+https://www.youtube.com/watch?v=C_-KfpW9aXo&ab_channel=Droider
+
+https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
+
+https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
+
+https://www.youtube.com/watch?v=Qun6aNBXjcA&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=WMknmeS4Nkc&ab_channel=VertDider
+
+https://www.youtube.com/watch?v=j4KcGQsgbnU&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=9jJ3tff2qH4&ab_channel=Onliner%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8
+
+https://www.youtube.com/watch?v=TmRvvhOrQl4&ab_channel=Droider
+
+https://www.youtube.com/watch?v=K7669UnbReg&ab_channel=Droider
+
+https://www.youtube.com/watch?v=GwsJphhx1YI&ab_channel=Droider
+
+https://www.youtube.com/watch?v=6JBGKLI8B0c&ab_channel=Droider
+
+
+
+
+
+
 
 Сборник книг по Лабвью и установщик 15 лабвью:
 
 https://disk.yandex.ru/d/tSBDxznmPCM3Lw
 
 https://disk.yandex.ru/d/Z4d97rZc4z-P8A
+
+
+
+Лекции для технологов:
+
+https://www.youtube.com/playlist?list=PL7Eo-W_dQbi_fcCe0ZZpQN4cTGYCaALdC
 
 
 у нас все пользуются 15 версией, хотя есть и более новые
@@ -363,7 +413,7 @@ YouTube4:02:58
 и он про историю кафедры
 с 56:29
 
+Вебинар комсола
 
-
-
+https://www.youtube.com/watch?v=FGoXteTCrbw&ab_channel=NumericmodellingbySergeyYankin
 
