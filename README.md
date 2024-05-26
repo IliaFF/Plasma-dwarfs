@@ -143,55 +143,6 @@ https://www.youtube.com/playlist?list=PLthfp5exSWEp_FjMnaZKGq3kOBWDUYKSS
 
 
 
-Есть неплохой научпоп:
-
-https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
-
-https://www.youtube.com/watch?v=fu5DkDsmePg&ab_channel=Droider
-
-https://www.youtube.com/watch?v=cNFGwH70m-w&ab_channel=HouseofNHTi
-
-https://www.youtube.com/watch?v=x8puN9Ocr98&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D0%BE%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%BD
-
-https://www.youtube.com/watch?v=cp8FykqdjPs&ab_channel=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B%2C%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8
-
-https://www.youtube.com/watch?v=IhtPgVK1Y_Q&ab_channel=Thoisoi
-
-https://www.youtube.com/watch?v=vvGSeEIi39g&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
-
-https://www.youtube.com/watch?v=scez3EysnWQ&ab_channel=%D0%A2%D0%B8%D0%BC%D1%83%D1%80%D0%93%D0%B0%D1%80%D0%B0%D0%BD%D0%B8%D0%BD%3A%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2
-
-https://www.youtube.com/watch?v=TmE_C5SfrLw
-
-https://www.youtube.com/watch?v=s4e3stJS2Xg&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
-
-https://www.youtube.com/watch?v=AbpO5cZ1E1Q&ab_channel=%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%D0%A2%D0%92
-
-https://www.youtube.com/watch?v=C_-KfpW9aXo&ab_channel=Droider
-
-https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
-
-https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
-
-https://www.youtube.com/watch?v=Qun6aNBXjcA&ab_channel=Thoisoi
-
-https://www.youtube.com/watch?v=WMknmeS4Nkc&ab_channel=VertDider
-
-https://www.youtube.com/watch?v=j4KcGQsgbnU&ab_channel=Thoisoi
-
-https://www.youtube.com/watch?v=9jJ3tff2qH4&ab_channel=Onliner%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8
-
-https://www.youtube.com/watch?v=TmRvvhOrQl4&ab_channel=Droider
-
-https://www.youtube.com/watch?v=K7669UnbReg&ab_channel=Droider
-
-https://www.youtube.com/watch?v=GwsJphhx1YI&ab_channel=Droider
-
-https://www.youtube.com/watch?v=6JBGKLI8B0c&ab_channel=Droider
-
-
-
-
 
 
 
@@ -299,49 +250,8 @@ https://www.overleaf.com
 поэтому, чем больше вопросов вы будете задавать тем лучше
 
 
-https://disk.yandex.ru/d/Prz9M8uKLfj60g
 
 
-я предлагаю вам смотреть в порядке:
-1) введение
-2) лицевая панель
-3)работа с блок-диаграммой
-4) О типичной структуре программ
-5) О связи с устройствами
-6) Visa
-7) Классы и библиотеки
-8) база данных
-9) резервирование daq
-10) референсы
-11) заключение
-Зиганшин Илья
-Зиганшин Илья 11:37
-общая продолжительность 4 часа
-
-еще есть выбинар комсола( это прога для инженерных расчетов) тут есть кое что про то как считают плазму, не для новичков, но мб начало как-то вам пригодится
-
-инструкция как пользоваться кофемашиной
-
-https://disk.yandex.ru/i/6INFHykVGb15tA
-
-как выглядит эксперимент
-
-https://disk.yandex.ru/d/R7G3fPtZjTJgQw
-
-
-https://www.youtube.com/playlist?list=PLnvM-GB1Ll4f2lyhwg2AqAs6t0vdLnCoS
-
-
-
-я обнаружил записи лекций ХимФака для2 курса
-про спектроскопию
-по идее как раз для вас
-
-
-https://www.youtube.com/watch?v=aMKI_5Rw2eo
-
-
-о, товарищи, в наши руки попал эксклюзивный материал, как Маша и Даниилом записывали летом научпопный видос для школьников
 
 
 
@@ -371,25 +281,56 @@ github.com
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Лекции по Лабвью
+
+
+https://disk.yandex.ru/d/Prz9M8uKLfj60g
+
+
+я предлагаю вам смотреть в порядке:
+1) введение
+2) лицевая панель
+3)работа с блок-диаграммой
+4) О типичной структуре программ
+5) О связи с устройствами
+6) Visa
+7) Классы и библиотеки
+8) база данных
+9) резервирование daq
+10) референсы
+11) заключение
+
+общая продолжительность 4 часа
+
+
+
+
+Мои Видео про плазму
+
 https://disk.yandex.ru/d/tYVsIpLOB5Hlmw
 
-
-
-Я потихоньку начал записывать видосы про плазму
-отзывы приветствуются
-пока этот видос, Что там есть должен вам объяснить зачем вы делаете то что вы делаете
-и чтобы вы могли на защите курсачей сами чтото ответить про актуальность работы
-На текущий момент у вас теперь точно есть вся общая информация для вашей работы
-про специализированную, это к тем людям с которыми вы работаете
-Зиганшин Илья
-Зиганшин Илья 22:13
 почему то один из видосов все время заливается с какими-то артефактами и я не понял почему, если скачать его то артефактов нет. Но чтобы вам было удобно смотреть я залил его на ютуб
 
-
-
 https://www.youtube.com/watch?v=CPxsv1yhWW8
-
-
 
 предлагаю смотреть в порядке:
 
@@ -401,19 +342,79 @@ https://www.youtube.com/watch?v=CPxsv1yhWW8
 6)дополнение к описанию систем многих частиц
 7)научные задачи в физике плазмы
 8)научные задачи взаимодействия плазмы с поверхностью
-вопросы как всегда приветствуются
-в рассказе я упоминаю большой обзор по физике плазмы, если что вот это он
 
 
+инструкция как пользоваться кофемашиной
 
-я тут обнаружил интересный материал, у меня есть запись выступления завкафа нашего на юбилейной конференции НИИЯФа
-YouTube4:02:58
-2021 02 16 14 04 35
-там все про историю ниияфа рассказывают
-и он про историю кафедры
-с 56:29
+https://disk.yandex.ru/i/6INFHykVGb15tA
+
+как выглядит эксперимент
+
+https://disk.yandex.ru/d/R7G3fPtZjTJgQw
+
 
 Вебинар комсола
 
 https://www.youtube.com/watch?v=FGoXteTCrbw&ab_channel=NumericmodellingbySergeyYankin
+
+
+
+лекций ХимФака для2 курса про спектроскопию
+
+https://www.youtube.com/watch?v=aMKI_5Rw2eo
+
+https://www.youtube.com/playlist?list=PLnvM-GB1Ll4f2lyhwg2AqAs6t0vdLnCoS
+
+
+
+
+Есть неплохой научпоп:
+
+https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
+
+https://www.youtube.com/watch?v=fu5DkDsmePg&ab_channel=Droider
+
+https://www.youtube.com/watch?v=cNFGwH70m-w&ab_channel=HouseofNHTi
+
+https://www.youtube.com/watch?v=x8puN9Ocr98&ab_channel=%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%93%D0%BE%D1%80%D1%88%D0%B5%D0%BD%D0%B8%D0%BD
+
+https://www.youtube.com/watch?v=cp8FykqdjPs&ab_channel=%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B5%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B%2C%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B0%D0%BA%D0%BB%D0%B8%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8
+
+https://www.youtube.com/watch?v=IhtPgVK1Y_Q&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=vvGSeEIi39g&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
+
+https://www.youtube.com/watch?v=scez3EysnWQ&ab_channel=%D0%A2%D0%B8%D0%BC%D1%83%D1%80%D0%93%D0%B0%D1%80%D0%B0%D0%BD%D0%B8%D0%BD%3A%D0%90%D1%80%D1%85%D0%B8%D0%B2%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE-%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D1%85%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D0%BE%D0%B2
+
+https://www.youtube.com/watch?v=TmE_C5SfrLw
+
+https://www.youtube.com/watch?v=s4e3stJS2Xg&embeds_referring_euri=https%3A%2F%2Fvk.com%2F&embeds_referring_origin=https%3A%2F%2Fvk.com&source_ve_path=MjM4NTE&feature=emb_title
+
+https://www.youtube.com/watch?v=AbpO5cZ1E1Q&ab_channel=%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5%D0%A2%D0%92
+
+https://www.youtube.com/watch?v=C_-KfpW9aXo&ab_channel=Droider
+
+https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
+
+https://www.youtube.com/watch?v=iJgBmRiYPyU&ab_channel=Droider
+
+https://www.youtube.com/watch?v=Qun6aNBXjcA&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=WMknmeS4Nkc&ab_channel=VertDider
+
+https://www.youtube.com/watch?v=j4KcGQsgbnU&ab_channel=Thoisoi
+
+https://www.youtube.com/watch?v=9jJ3tff2qH4&ab_channel=Onliner%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8
+
+https://www.youtube.com/watch?v=TmRvvhOrQl4&ab_channel=Droider
+
+https://www.youtube.com/watch?v=K7669UnbReg&ab_channel=Droider
+
+https://www.youtube.com/watch?v=GwsJphhx1YI&ab_channel=Droider
+
+https://www.youtube.com/watch?v=6JBGKLI8B0c&ab_channel=Droider
+
+
+
+
 
