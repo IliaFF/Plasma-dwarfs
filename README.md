@@ -190,7 +190,15 @@ https://disk.yandex.ru/d/Z4d97rZc4z-P8A
 
 www.vipm.io
 
-а тут есть все что в пакеты упаковано в лабе
+Там есть проблема, что для того чтобы он поставился( его надо ставить более страшиих версий чем 15) нужно поставить вот эту штуку еще
+
+https://dnph.phys.msu.ru/nextcloud/index.php/s/dzDdLJtHmanFF2g
+
+А также еще вам по любому понадобится
+
+https://dnph.phys.msu.ru/nextcloud/index.php/s/6xq7BPRHy7tY63d
+
+а тут есть все что в пакеты упаковано в лабе(кроме библиотеки для работы с базой данных, ее только пересылкой личной передаем)
 
 https://www.vipm.io/profile/plasmapper/
 
